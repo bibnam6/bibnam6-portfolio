@@ -47,3 +47,6 @@ Starting from zero, but growing every day with real experience and strong resear
 - 🐦 Twitter/X: [@bibnam6](https://x.com/bibnam6)  
 - 💬 Telegram: [@ganipukok](https://t.me/ganipukok)  
 - 📧 Email: abib0181@gmail.com
+
+- ## 🧾 Pitch to Vaults
+Read my pitch: [pitch.md](./pitch.md)
