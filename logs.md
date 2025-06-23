@@ -14,7 +14,7 @@ This document contains logs, updates, and issue resolutions for the `bibnam6` Ta
 
 ## ⏳ Upcoming Logs
 - [✓] Full sync expected by 2025-06-23
-- [ ] Join operator-only Discord channel
+- [×] Join operator-only Discord channel
 - [ ] Submit updated performance proof to Vaults
       
 📅 2025-06-23
@@ -32,5 +32,44 @@ This document contains logs, updates, and issue resolutions for the `bibnam6` Ta
 🧠 Ready for Vault pitch (already published)
 
 📂 GitHub portfolio updated with current infrastructure and milestones
+
+📒 Node Operation Logs - bibnam6
+
+2025-06-23
+
+✅ Tanssi Node Fully Synced
+
+Final block height: 7657122
+
+Peers: 22
+
+Sync status: false (completed)
+
+Systemd service active since: 04:51:58 CEST
+
+
+⚠️ Operator Role Update
+
+Confirmed: Operator role only granted to 137 Season 1 winners and selected Symbiotic members.
+
+No further approvals in Season 2.
+
+Response from admin: "running a node won’t come with any rewards. Please consider carefully before proceeding."
+
+
+💡 Decision
+
+Stop building further on Tanssi for now.
+
+Will pursue more open and accessible projects.
+
+
+
+
+---
+
+Next target: Evaluate and pursue opportunity in CESS Network.
+
+
 
 
