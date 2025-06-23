@@ -1,75 +1,25 @@
-# 🧾 bibnam6 Node Operation Log
+# 📘 Operator Logs - bibnam6
 
-This document contains logs, updates, and issue resolutions for the `bibnam6` Tanssi node operation.
+## ⛔ Terminated Project: Tanssi Network
 
----
-
-## ✅ 2025-06-22
-- 📥 Synced Tanssi node from block `2,784,213` → `4,177,406` / `7,644,280`
-- ⚙️ Increased `--in-peers` and `--out-peers` to 50 for better connectivity
-- 🧠 Investigated memory usage and confirmed stable with 24GB RAM
-- 📝 Created GitHub portfolio repository
-
----
-
-## ⏳ Upcoming Logs
-- [✓] Full sync expected by 2025-06-23
-- [×] Join operator-only Discord channel
-- [ ] Submit updated performance proof to Vaults
-      
-📅 2025-06-23
-
-✅ Node successfully reached full sync at block 7,657,122
-
-✅ Peer count stable between 15–22
-
-✅ tanssi.service running smoothly via systemd
-
-✅ RPC endpoint active and responsive
-
-🕒 Awaiting Operator role assignment from the Tanssi team (within 48 hours)
-
-🧠 Ready for Vault pitch (already published)
-
-📂 GitHub portfolio updated with current infrastructure and milestones
-
-📒 Node Operation Logs - bibnam6
-
-2025-06-23
-
-✅ Tanssi Node Fully Synced
-
-Final block height: 7657122
-
-Peers: 22
-
-Sync status: false (completed)
-
-Systemd service active since: 04:51:58 CEST
-
-
-⚠️ Operator Role Update
-
-Confirmed: Operator role only granted to 137 Season 1 winners and selected Symbiotic members.
-
-No further approvals in Season 2.
-
-Response from admin: "running a node won’t come with any rewards. Please consider carefully before proceeding."
-
-
-💡 Decision
-
-Stop building further on Tanssi for now.
-
-Will pursue more open and accessible projects.
-
-
-
+**Status:** Node stopped and removed  
+**Duration:** 2025-06-19 → 2025-06-23  
+**Reason:** Operator role was only open to limited winners from Season 1. No rewards or onboarding for new participants.  
+**Summary:**
+- Successfully synced full node until final block
+- Participated in Discord and submitted formal operator application
+- Built full documentation and pitch on GitHub
+- Ultimately closed due to lack of opportunity and reward
 
 ---
 
-Next target: Evaluate and pursue opportunity in CESS Network.
+## 🆕 New Target: CESS Network
 
+**Status:** Preparing to join CESS testnet  
+**Start Date:** 2025-06-23  
+**Actions:**
+- Studying [CESS documentation](https://doc.cess.network/)
+- Evaluating resource requirements and staking method
+- Exploring options to receive delegated TCESS
 
-
-
+Next updates will cover step-by-step progress on CESS testnet node setup.
